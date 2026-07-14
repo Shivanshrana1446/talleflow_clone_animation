@@ -1,3 +1,4 @@
+
 export default {
   content: [
     "./index.html",
@@ -13,4 +14,4 @@ export default {
     },
   },
   plugins: [],
-}
+};
